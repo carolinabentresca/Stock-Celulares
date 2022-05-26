@@ -1,9 +1,10 @@
 
-## Proyecto Spring Boot
-### Spring MVC - Spring Data Jpa e Hibernate
-### Uso de Thymeleaf - Bootstrap v4.5
+### Proyecto Spring Boot
+- #### Uso Spring MVC - Spring Data Jpa e Hibernate
+- #### Uso de Thymeleaf - Bootstrap v4.5
+- #### "Stock de Celulares"
 
-## "Stock"
+
 
 ![Inicio - Google Chrome 20_5_2022 20_43_14](https://user-images.githubusercontent.com/88462536/169628175-8f8c0032-30f6-4e1b-8e54-8a99d7f51283.png)
 
