@@ -1,5 +1,5 @@
 
-### Proyecto Spring Boot
+### Proyecto Java Spring Boot
 - #### Uso Spring MVC - Spring Data Jpa e Hibernate
 - #### Uso de Thymeleaf - Bootstrap v4.5
 - #### "Stock de Celulares"
